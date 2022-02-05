@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code.</strong>
+  💼 Ferramentas: <strong>Visual Studio Code, XAMPP, HeindSQL</strong>
 </p>
 
 <p align="left">
