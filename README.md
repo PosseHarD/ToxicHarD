@@ -18,15 +18,15 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="E-mail">
+  <a href="<felipealarcon@hotmail.com>" alt="E-mail">
   <img src="https://img.shields.io/badge/-Hotmail-EA4335?style=flat-square&labelColor=EA4335&logo=gmail&logoColor=white&link=felipealarcon@hotmail.com" /></a>
 
-  <a href="#" alt="Discord">
+  <a href="https://discord.gg/UhRJkPj9d4" alt="Discord">
   <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&labelColor=5865F2&logo=discord&logoColor=white&link=https://discord.gg/UhRJkPj9d4"/></a>
 
-  <a href="#" alt="YouTube">
+  <a href="https://www.youtube.com/@HarDNetwork" alt="YouTube">
   <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/@HarDNetwork"/></a>
   
-  <a href="#" alt="Instagram">
+  <a href="https://www.instagram.com/felipealarcon.hd/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/felipealarcon.hd/"/></a>
 </p>  
