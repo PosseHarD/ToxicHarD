@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Hotmail">
+  <a href="#" alt="E-mail">
   <img src="https://img.shields.io/badge/-Hotmail-EA4335?style=flat-square&labelColor=EA4335&logo=gmail&logoColor=white&link=felipealarcon@hotmail.com" /></a>
 
   <a href="#" alt="Discord">
