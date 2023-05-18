@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/rwGcsAP.png" min-width="400px" max-width="400px" width="400px" hight="350px" align="right" alt="Computador iuriCode">
+<img src="https://i.imgur.com/rwGcsAP.png" min-width="400px" max-width="400px" width="400px" hight="200px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Olá sou um programador e estudante da linguagem LUA, tenho alguns trabalhos já feitos e uma experiencia sou focado no <strong>FiveM</strong>.<br>
