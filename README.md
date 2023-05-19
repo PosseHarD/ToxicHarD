@@ -1,8 +1,7 @@
 <img src="https://i.imgur.com/rwGcsAP.png" min-width="400px" max-width="400px" width="400px" hight="200px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá sou um programador e estudante da linguagem LUA, tenho alguns trabalhos já feitos e uma experiencia sou focado no <strong>FiveM</strong>.<br>
-  Estou estudando aprimorar ainda mais as habilidades da linguagem.
+  Felipe Alarcon, CEO da HarD Network, programador experiente e apaixonado por inovação. Especializado em hospedagem de servidores de FiveM e serviços de programação. Com apenas 17 anos, tenho desenvolvido soluções personalizadas e fornecido suporte para comunidades de jogos. Junte-se a mim nessa jornada de transformação tecnológica.
 </p>
 
 <p align="left">
