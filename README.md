@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>lua</strong>,<strong>JavaScript</strong>
+  🦄 Linguagens: <strong>JavaScript</strong>,<strong>lua</strong>
 </p>
 
 <p align="left">
