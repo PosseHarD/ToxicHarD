@@ -18,7 +18,7 @@
 
 <p align="left">
   <a href="<felipealarcon@hotmail.com>" alt="E-mail">
-  <img src="https://img.shields.io/badge/-Hotmail-EA4335?style=flat-square&labelColor=EA4335&logo=gmail&logoColor=white&link=felipealarcon@hotmail.com" /></a>
+  <img src="https://img.shields.io/badge/-Hotmail-EA4335?style=flat-square&labelColor=EA4335&logo=gmail&logoColor=white&link=felipealarcon@hardnetwork.com.br" /></a>
 
   <a href="https://discord.gg/UhRJkPj9d4" alt="Discord">
   <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&labelColor=5865F2&logo=discord&logoColor=white&link=https://discord.gg/UhRJkPj9d4"/></a>
